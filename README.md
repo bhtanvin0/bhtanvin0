@@ -6,7 +6,7 @@
 
 A Certified and Experienced Web & WordPress Developer. Working as a Professional Full stack Web developer and eCommerce and WordPress expert since 2018 and completed over 178 web projects of 98 clients at various marketplaces.
 
-Skills: HTML / CSS / PHP / WordPress / eCommerce
+Skills: HTML / CSS / tailwind / JavaScript / React Js / NodeJs / Firebase / MongoDB / WordPress / Wix etc
 
 - 🔭 I’m currently working on Fiverr 
 - 🌱 I’m currently learning JavaScript 
